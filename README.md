@@ -1,4 +1,4 @@
-# dudetopia
+# Learning threejs :-)
 
 to run, write on terminal
 
